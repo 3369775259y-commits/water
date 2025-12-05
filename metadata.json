@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Aether Touch",
+  "description": "An interactive installation using computer vision for touchless liquid manipulation, powered by Gemini AI for adaptive environmental themes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
